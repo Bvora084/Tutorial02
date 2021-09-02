@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">19SOECE11043</string>
+    <string name="app_en">19SOECE11043</string>
+    <string name="app_fname">Brijesh</string>
+    <string name="app_mname">Ashokbhai</string>
+    <string name="app_lname">Vora</string>
+    <string name="app_email">bvora084@rku.ac.in</string>
+    <string name="app_pass">123456789</string>
+    <string name="app_gender">Male</string>
+    <string name="app_city">Surat</string>
+
+
+</resources>
